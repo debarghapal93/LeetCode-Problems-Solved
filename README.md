@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0443-string-compression) |
+## Array
+|  |
+| ------- |
+| [1313-decompress-run-length-encoded-list](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1313-decompress-run-length-encoded-list) |
 <!---LeetCode Topics End-->
