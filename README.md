@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1313-decompress-run-length-encoded-list](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1313-decompress-run-length-encoded-list) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/2540-minimum-common-value) |
 ## Queue
 |  |
@@ -51,5 +52,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/2540-minimum-common-value) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
