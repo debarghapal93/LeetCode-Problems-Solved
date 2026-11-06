@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0443-string-compression) |
 ## Two Pointers
 |  |
@@ -26,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1313-decompress-run-length-encoded-list](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1313-decompress-run-length-encoded-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
