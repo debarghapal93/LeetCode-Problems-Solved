@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [3692-majority-frequency-characters](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/3692-majority-frequency-characters) |
 ## Math
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0443-string-compression) |
 | [3692-majority-frequency-characters](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/3692-majority-frequency-characters) |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [3692-majority-frequency-characters](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/3692-majority-frequency-characters) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
