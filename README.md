@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0387-first-unique-character-in-a-string) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0001-two-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1313-decompress-run-length-encoded-list](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
