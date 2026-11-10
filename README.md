@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
 ## String
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
