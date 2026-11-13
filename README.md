@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1025-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -97,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0070-climbing-stairs) |
+| [1025-divisor-game](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
