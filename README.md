@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0443-string-compression) |
 | [2540-minimum-common-value](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/2540-minimum-common-value) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1313-decompress-run-length-encoded-list](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1313-decompress-run-length-encoded-list) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0242-valid-anagram) |
 ## Binary Search
