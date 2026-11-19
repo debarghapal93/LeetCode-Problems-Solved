@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1025-divisor-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1688-count-of-matches-in-tournament) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
+| [1688-count-of-matches-in-tournament](https://github.com/debarghapal93/LeetCode-Problems-Solved/tree/master/1688-count-of-matches-in-tournament) |
 ## Brainteaser
 |  |
 | ------- |
