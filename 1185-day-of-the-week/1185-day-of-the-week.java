@@ -14,6 +14,5 @@ class Solution {
         totalDays += day - 1;
         return days[totalDays % 7];
 
-        
     }
 }
