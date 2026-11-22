@@ -11,6 +11,7 @@ class Solution {
         for (int i = 0; i < month - 1; i++){
             totalDays += months[i];
         }
+        
         totalDays += day - 1;
         return days[totalDays % 7];
 
